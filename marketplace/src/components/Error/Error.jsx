@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import Layout from "../Layout/Layout";
 import "./Error.scss";
+
 export default function Error() {
   return (
     <Layout>
